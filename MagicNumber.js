@@ -1,5 +1,4 @@
-// Created by Nelson Kan 
-// Date: Sep 14, 2023
+// Created by Nelson Kan on Sep 16, 2023
 
 // Prompt the user to enter a number
 var userNumber = parseInt(prompt("Choose any whole number:"));
